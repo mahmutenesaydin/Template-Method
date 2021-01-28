@@ -1,0 +1,6 @@
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - TemplateMethod\ŞA - TemplateMethod\bin\Debug\ŞA - TemplateMethod.exe.config
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - TemplateMethod\ŞA - TemplateMethod\bin\Debug\ŞA - TemplateMethod.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - TemplateMethod\ŞA - TemplateMethod\bin\Debug\ŞA - TemplateMethod.pdb
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - TemplateMethod\ŞA - TemplateMethod\obj\Debug\ŞA - TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - TemplateMethod\ŞA - TemplateMethod\obj\Debug\ŞA - TemplateMethod.exe
+C:\Users\abc\Documents\Visual Studio 2015\Projects\OOPfinal\ŞA - TemplateMethod\ŞA - TemplateMethod\obj\Debug\ŞA - TemplateMethod.pdb
